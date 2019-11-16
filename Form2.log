@@ -1,0 +1,6 @@
+Line 25: Class RichTextLib.RichTextBox of control RichTextBox1 was not a loaded control class.
+Line 31: The property name _ExtentX in RichTextBox1 is invalid.
+Line 32: The property name _ExtentY in RichTextBox1 is invalid.
+Line 33: The property name _Version in RichTextBox1 is invalid.
+Line 35: The property name FileName in RichTextBox1 is invalid.
+Line 36: The property name TextRTF in RichTextBox1 is invalid.
