@@ -4,7 +4,7 @@ I've used three software in total here to make the whole project.
 Programming:
 1) Microsoft Visual Basic 6 (Compiler)
 2) Microsoft Access 2010 (Database)
-![](ui3.JPG)
+![](/ui3.JPG)
 User Interface:
 1)Photoshop CC 
 
